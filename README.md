@@ -1,0 +1,1 @@
+A sleek and simple Registration Form designed using HTML and CSS. This form includes fields for username, email, and password, along with social login buttons for Google and Facebook. The goal of this project is to demonstrate the creation of a responsive, user-friendly signup interface with modern UI design
